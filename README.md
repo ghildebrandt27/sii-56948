@@ -7,3 +7,5 @@ Jugador 1: W para subir y S para bajar.
 Jugador 2: O para subir y L para bajar.
 
 ¡Pon a prueba tus reflejos y consigue más puntos que tu rival para ganar el partido!
+
+El juego finalizará una vez uno de los jugadores alcance los 3 puntos
